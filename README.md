@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning C language, HTML, CSS, JAVASCRIPT
 - 📫 How to reach me: <br>
-<a href="https://www.instagram.com/harshita6844/">*INSTAGRAM*</a>
 - 😄 Pronouns: she/her.
 
 
